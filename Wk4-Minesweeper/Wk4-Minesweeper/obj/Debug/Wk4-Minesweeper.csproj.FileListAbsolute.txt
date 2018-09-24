@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\obj\Debug\Wk4-Minesweeper.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\obj\Debug\Wk4_Minesweeper.Form1.resources
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\obj\Debug\Wk4_Minesweeper.Form2.resources
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\obj\Debug\Wk4_Minesweeper.Properties.Resources.resources
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\obj\Debug\Wk4-Minesweeper.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\obj\Debug\Wk4-Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\bin\Debug\Wk4-Minesweeper.exe.config
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\bin\Debug\Wk4-Minesweeper.exe
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\bin\Debug\Wk4-Minesweeper.pdb
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\obj\Debug\Wk4-Minesweeper.exe
+C:\Users\HP\source\repos\Wk4-Minesweeper\Wk4-Minesweeper\obj\Debug\Wk4-Minesweeper.pdb
